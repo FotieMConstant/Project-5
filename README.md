@@ -1,2 +1,2 @@
 # Project-5
-Prioject 5 from Openclassrooms
+Project 5 from Openclassrooms
