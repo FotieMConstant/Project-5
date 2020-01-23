@@ -2,7 +2,8 @@
 Project 5 from Openclassrooms
 Project: Create a quotation generator
 
-__Step 1: Random quotes
+
+Step 1: Random quotes
 
 There are plenty of text generators online. Google "quote generator," and you will find many sites that randomly generate quotes by assembling sentence fragments.
 
@@ -23,7 +24,8 @@ Files to provide:
 
     A JavaScript file of your code
 
-__Step 2: More customized quotes
+
+Step 2: More customized quotes
 
 You now want to go further and offer the following options:
 
